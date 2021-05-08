@@ -233,7 +233,7 @@ allenjo01,1890,10,27,USA,WV,Berkeley Springs,1967,9,24,USA,MD,Hagerstown,John,Al
 allenjo02,1904,9,30,USA,NC,Lenoir,1959,3,29,USA,FL,St. Petersburg,Johnny,Allen,John Thomas,180,72,R,R,1932-04-19,1944-09-26,allej102,allenjo02
 allenki01,1953,4,5,USA,CA,Fontana,,,,,,,Kim,Allen,Kim Bryant,175,71,R,R,1980-09-02,1981-09-29,allek101,allenki01
 allenll01,1950,5,8,USA,CA,Merced,,,,,,,Lloyd,Allen,Lloyd Cecil,185,73,R,R,1969-09-01,1975-07-27,allel101,allenll01
-allenlo01,1997,5,23,USA,FL,West Palm Beach,,,,,,,Logan,Allen,Logan Shane,220,75,R,L,2019-06-18,2021-04-28,allel002,allenlo01
+allenlo01,1997,5,23,USA,FL,West Palm Beach,,,,,,,Logan,Allen,Logan Shane,200,75,R,L,2019-06-18,2021-04-28,allel002,allenlo01
 allenlu01,1978,8,4,USA,GA,Covington,,,,,,,Luke,Allen,Lucas Gale,208,74,L,R,2002-09-10,2003-07-17,allel001,allenlu01
 allenmy01,1854,3,22,USA,NY,Kingston,1924,3,8,USA,NY,Kingston,Myron,Allen,Myron Smith,150,68,R,R,1883-07-19,1888-07-01,allem101,allenmy01
 allenne01,1958,1,24,USA,KS,Kansas City,,,,,,,Neil,Allen,Neil Patrick,185,75,R,R,1979-04-15,1989-09-19,allen001,allenne01
@@ -3825,7 +3825,7 @@ cramebo01,1979,10,28,USA,CA,Anaheim,,,,,,,Bobby,Cramer,Robert Thomas,205,73,L,L,
 cramedi01,1855,8,18,USA,OH,Cincinnati,1898,2,23,USA,NY,Brooklyn,Edward,Cramer,Edward,160,,,L,1883-05-11,1883-05-15,cramd101,cramedi01
 cramedo01,1905,7,22,USA,NJ,Beach Haven,1990,9,9,USA,NJ,Manahawkin,Doc,Cramer,Roger Maxwell,185,74,L,R,1929-09-18,1948-05-12,cramd102,cramedo01
 cramje01,1947,12,9,USA,CA,Los Angeles,,,,,,,Jerry,Cram,Gerald Allen,180,72,R,R,1969-09-03,1976-09-27,cramg101,cramje01
-crandde01,1930,3,5,USA,CA,Ontario,,,,,,,Del,Crandall,Delmar Wesley,180,73,R,R,1949-06-17,1966-09-25,crand102,crandde01
+crandde01,1930,3,5,USA,CA,Ontario,2021,5,5,USA,CA,Mission Viejo,Del,Crandall,Delmar Wesley,180,73,R,R,1949-06-17,1966-09-25,crand102,crandde01
 cranddo01,1887,10,8,USA,IN,Wadena,1951,8,17,USA,CA,Bell,Doc,Crandall,James Otis,180,70,R,R,1908-04-24,1918-08-31,crand101,cranddo01
 craneed01,1862,5,27,USA,MA,Boston,1896,9,20,USA,NY,Rochester,Ed,Crane,Edward Nicholas,204,70,R,R,1884-04-17,1893-07-19,crane101,craneed01
 cranefr01,1840,11,4,USA,CT,Saybrook,1925,4,27,USA,NY,Brooklyn,Fred,Crane,Frederick William Hotchkiss,135,69,,,1873-05-26,1875-06-23,cranf101,cranefr01
@@ -6919,7 +6919,7 @@ grandya01,1988,11,8,Cuba,La Habana,La Habana,,,,,,,Yasmani,Grandal,Yasmani,225,7
 graneja01,1886,6,10,CAN,ON,St. Thomas,1978,4,20,USA,MO,Louisiana,Jack,Graney,John Gladstone,180,69,L,L,1908-04-30,1922-06-28,granj104,graneja01
 grangje01,1971,12,16,USA,CA,San Pedro,,,,,,,Jeff,Granger,Jeffrey Adam,200,76,R,L,1993-09-16,1997-04-25,granj001,grangje01
 grangwa01,1944,3,15,USA,MA,Springfield,,,,,,,Wayne,Granger,Wayne Allan,165,74,R,R,1968-06-05,1976-06-25,granw101,grangwa01
-graniza01,1992,9,17,USA,NY,Staten Island,,,,,,,Zach,Granite,Zachary Thomas,175,73,L,L,2017-07-08,2017-10-01,granz001,graniza01
+graniza01,1992,9,17,USA,NY,Staten Island,,,,,,,Zach,Granite,Zachary Thomas,185,73,L,L,2017-07-08,2017-10-01,granz001,graniza01
 granted01,1883,5,21,USA,MA,Franklin,1918,10,5,France,,Argonne,Eddie,Grant,Edward Leslie,168,71,L,R,1905-08-04,1915-10-06,grane101,granted01
 grantfr99,1865,8,1,USA,MA,Pittsfield,1937,5,27,USA,NY,New York,Frank,Grant,Ulysses Franklin,155,67,R,R,,,,grantfr99
 grantge01,1900,5,20,USA,KS,Galena,1954,3,16,USA,AZ,Kingman,George,Grantham,George Farley,170,70,L,R,1922-09-20,1934-07-26,grang102,grantge01
@@ -12346,7 +12346,7 @@ millera02,1888,2,12,USA,PA,Pittsburgh,1927,4,7,USA,PA,Pittsburgh,Ray,Miller,Raym
 millera03,1896,2,29,USA,IN,Fort Wayne,1939,3,18,USA,IN,Fort Wayne,Ralph,Miller,Ralph Joseph,190,72,R,R,1920-04-14,1924-09-30,millr101,millera03
 millera04,1899,1,14,USA,IA,Vinton,1967,2,18,USA,MN,White Bear Lake,Ralph,Miller,Ralph Henry,190,73,R,L,1921-09-16,1921-09-16,millr102,millera04
 millera05,1953,3,18,USA,CA,Oxnard,,,,,,,Randy,Miller,Randall Scott,180,73,R,R,1977-09-07,1978-09-16,millr109,millera05
-millera99,1945,4,30,USA,MD,Takoma Park,,,,,,,Ray,Miller,Raymond Roger,,,R,R,,,millr801,millera99
+millera99,1945,4,30,USA,MD,Takoma Park,2021,5,5,USA,,,Ray,Miller,Raymond Roger,,,R,R,,,millr801,millera99
 millere01,1897,2,11,USA,PA,Philadelphia,1973,10,20,USA,FL,Orlando,Red,Miller,Leo Alphonso,195,71,R,R,1923-07-13,1923-07-13,millr104,millere01
 milleri01,1948,4,19,USA,MI,Grand Rapids,,,,,,,Rick,Miller,Richard Alan,175,72,L,L,1971-09-04,1985-10-04,millr001,milleri01
 millero01,1876,12,2,USA,IN,Greenville,1913,4,18,USA,IN,Croydon,Roscoe,Miller,Roscoe Clyde,190,74,R,R,1901-04-25,1904-08-03,millr112,millero01
@@ -15372,7 +15372,7 @@ roberji02,1928,1,29,USA,IL,Chicago,2015,10,21,USA,WA,Redmond,Jim,Robertson,Alfre
 roberke01,1968,1,29,USA,IL,Decatur,,,,,,,Kevin,Roberson,Kevin Lynn,210,76,B,R,1993-07-15,1996-05-28,robek001,roberke01
 roberke02,1988,3,9,USA,TN,Murfreesboro,,,,,,,Kenny,Roberts,Kenneth Elwin,200,73,L,L,2015-05-03,2015-10-03,robek002,roberke02
 roberle01,1951,1,22,USA,MI,Vicksburg,,,,,,,Leon,Roberts,Leon Kauffman,200,75,R,R,1974-09-03,1984-09-30,robel001,roberle01
-roberlu01,1997,8,3,Cuba,,Havana,,,,,,,Luis,Robert,Luis,220,74,R,R,2020-07-24,2021-05-02,robel002,roberlu01
+roberlu01,1997,8,3,Cuba,,Ciego de Avila,,,,,,,Luis,Robert,Luis,220,74,R,R,2020-07-24,2021-05-02,robel002,roberlu01
 robermi01,1970,10,9,USA,CT,Norwich,,,,,,,Mike,Robertson,Michael Francis,180,72,L,L,1996-09-06,1998-06-26,robem001,robermi01
 roberna01,1977,9,3,USA,KS,Wichita,,,,,,,Nate,Robertson,Nathan Daniel,225,74,R,L,2002-09-07,2010-09-08,roben001,roberna01
 roberra01,1895,8,25,USA,MS,Cruger,1962,1,30,USA,MS,Cruger,Ray,Roberts,Raymond,180,71,L,R,1919-09-12,1919-09-26,rober103,roberra01
@@ -20131,7 +20131,7 @@ ziemst01,1961,10,24,USA,WI,Milwaukee,,,,,,,Steve,Ziem,Stephen Graeling,210,74,R,
 zientbe01,1918,2,14,USA,IL,Chicago,1985,4,16,USA,CA,Lake Elsinore,Benny,Zientara,Benedict Joseph,165,69,R,R,1941-09-11,1948-09-23,zienb101,zientbe01
 ziesbi01,1867,6,16,USA,IL,Rock Island,1907,4,16,USA,IL,Beardstown,Bill,Zies,William,,,L,,1891-08-09,1891-08-10,ziesb101,ziesbi01
 zimmebi01,1887,1,20,Germany,,Kengen,1952,10,4,USA,NJ,Newark,Bill,Zimmerman,William Frederick,172,68,R,R,1915-04-14,1915-07-09,zimmb101,zimmebi01
-zimmebr01,1992,11,27,USA,CA,San Francisco,,,,,,,Bradley,Zimmer,Bradley Clarke,220,77,L,R,2017-05-16,2020-08-20,zimmb001,zimmebr01
+zimmebr01,1992,11,27,USA,CA,San Francisco,,,,,,,Bradley,Zimmer,Bradley Clarke,185,76,L,R,2017-05-16,2020-08-20,zimmb001,zimmebr01
 zimmebr02,1995,2,9,USA,MD,Baltimore,,,,,,,Bruce,Zimmermann,Bruce Anthony,215,73,L,L,2020-09-17,2021-05-02,zimmb002,zimmebr02
 zimmech01,1860,11,23,USA,OH,Marietta,1949,8,22,USA,OH,Cleveland,Chief,Zimmer,Charles Louis,190,72,R,R,1884-07-18,1903-09-27,zimmc101,zimmech01
 zimmedo01,1931,1,17,USA,OH,Cincinnati,2014,6,4,USA,FL,Dunedin,Don,Zimmer,Donald William,165,69,R,R,1954-07-02,1965-10-02,zimmd101,zimmedo01
