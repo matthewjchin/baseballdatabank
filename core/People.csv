@@ -5833,7 +5833,7 @@ foggjo01,1976,12,13,USA,MA,Lynn,,,,,,,Josh,Fogg,Joshua Smith,205,74,R,R,2001-09-
 fohlle01,1876,11,28,USA,OH,Lowell,1965,10,30,USA,OH,Cleveland,Lee,Fohl,Leo Alexander,175,70,L,R,1902-08-29,1903-09-27,fohll101,fohlle01
 foileha01,1929,6,10,USA,VA,Richmond,,,,,,,Hank,Foiles,Henry Lee,195,72,R,R,1953-04-21,1964-05-02,foilh101,foileha01
 foleycu01,1856,1,14,Ireland,,Milltown,1898,10,20,USA,NY,New York,Curry,Foley,Charles Joseph,160,70,,L,1879-05-13,1883-09-05,folec101,foleycu01
-foleyja01,1995,11,1,USA,NY,Manhasset,,,,,,,Jason,Foley,Jason Joseph,215,76,R,R,2021-06-06,2021-06-06,,
+foleyja01,1995,11,1,USA,NY,Manhasset,,,,,,,Jason,Foley,Jason Joseph,215,76,R,R,2021-06-06,2021-06-06,folej001,
 foleyjo01,1857,10,25,USA,VT,Brattleboro,,,,,,,John,Foley,John J.,,,,L,1885-09-18,1885-09-18,folej101,foleyjo01
 foleyma01,1953,8,29,USA,KY,Stanford,,,,,,,Marv,Foley,Marvis Edwin,195,72,L,R,1978-09-11,1984-09-30,folem001,foleyma01
 foleyra01,1906,6,23,USA,CT,Naugatuck,1980,3,22,USA,FL,Vero Beach,Ray,Foley,Raymond Kirwin,173,71,L,R,1928-07-04,1928-09-10,foler101,foleyra01
@@ -15640,7 +15640,7 @@ romose01,1983,3,4,USA,CA,Brawley,,,,,,,Sergio,Romo,Sergio Francisco,185,71,R,R,2
 romovi01,1943,4,12,Mexico,Baja California Sur,Santa Rosalia,,,,,,,Vicente,Romo,Vicente,180,73,R,R,1968-04-11,1982-07-27,romov101,romovi01
 ronanma01,1969,9,19,USA,AL,Ozark,,,,,,,Marc,Ronan,Edward Marcus,190,74,L,R,1993-09-21,1993-10-03,ronam001,ronanma01
 rondehe01,1887,5,5,USA,CT,Danielson,1943,5,28,USA,RI,Woonsocket,Henri,Rondeau,Henri Joseph,175,70,L,R,1913-04-11,1916-07-01,rondh101,rondehe01
-rondoan01,1997,12,1,D.R.,La Altagracia,Higuey,,,,,,,Angel,Rondon,Angel Miguel,205,73,R,R,2021-06-06,2021-06-06,,
+rondoan01,1997,12,1,D.R.,La Altagracia,Higuey,,,,,,,Angel,Rondon,Angel Miguel,205,73,R,R,2021-06-06,2021-06-06,ronda001,
 rondobr01,1990,12,9,Venezuela,Carabobo,Valencia,,,,,,,Bruce,Rondon,Bruce,275,75,R,R,2013-04-25,2018-07-10,rondb001,rondobr01
 rondogi01,1953,11,18,USA,NY,Bronx,,,,,,,Gil,Rondon,Gilberto,200,74,R,R,1976-04-10,1979-09-29,rondg101,rondogi01
 rondohe01,1988,2,26,Venezuela,Miranda,Guatire,,,,,,,Hector,Rondon,Hector Luis,225,75,R,R,2013-04-03,2020-09-26,rondh001,rondohe01
@@ -15984,7 +15984,7 @@ sanchan03,1989,11,28,D.R.,Hermanas Mirabal,Tenares,,,,,,,Angel,Sanchez,Angel Lui
 sanchbr01,1978,8,8,USA,TX,Beaumont,,,,,,,Brian,Sanches,Brian Lee,190,73,R,R,2006-06-01,2012-07-14,sancb001,sanchbr01
 sanchca01,1992,6,29,Venezuela,Aragua,Maracay,,,,,,,Carlos,Sanchez,Yolmer Carlos,210,72,B,R,2014-07-13,2020-09-25,sancc001,sanchca01
 sanchce01,1944,2,3,Mexico,Veracruz,El Guayabal,1992,5,1,Mexico,Guanajuato,Leon,Celerino,Sanchez,Celerino,160,71,R,R,1972-06-13,1973-09-30,sancc101,sanchce01
-sanchcr01,1996,12,12,D.R.,La Romana,La Romana,,,,,,,Cristopher,Sanchez,Cristopher Alexis,165,73,L,L,2021-06-06,2021-06-06,,
+sanchcr01,1996,12,12,D.R.,La Romana,La Romana,,,,,,,Cristopher,Sanchez,Cristopher Alexis,165,73,L,L,2021-06-06,2021-06-06,sancc002,
 sanchdu01,1979,10,14,D.R.,Sanchez Ramirez,Cotui,,,,,,,Duaner,Sanchez,Duaner,210,74,R,R,2002-06-14,2009-05-14,sancd001,sanchdu01
 sanched01,1989,2,16,Venezuela,Aragua,Maracay,,,,,,,Eduardo,Sanchez,Eduardo Nazareth,180,71,R,R,2011-04-13,2013-08-13,sance001,sanched01
 sanchfe01,1981,8,3,D.R.,Puerto Plata,Puerto Plata,,,,,,,Felix,Sanchez,Felix Antonio,180,75,R,L,2003-09-03,2003-09-20,sancf002,sanchfe01
