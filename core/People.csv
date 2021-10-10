@@ -1055,7 +1055,7 @@ baylodo01,1949,6,28,USA,TX,Austin,2017,8,7,USA,TX,Austin,Don,Baylor,Don Edward,1
 baynebi01,1899,4,18,USA,PA,Pittsburgh,1981,5,22,USA,MO,St. Louis,Bill,Bayne,William Lear,160,69,L,L,1919-09-20,1930-04-26,baynb101,baynebi01
 bazared01,1995,9,1,Venezuela,Aragua,Maracay,,,,,,,Eduard,Bazardo,Eduard Felix,165,72,R,R,2021-04-14,2021-05-12,bazae001,bazared01
 bazaryo01,1984,7,11,Venezuela,Aragua,Maracay,,,,,,,Yorman,Bazardo,Yorman Michael,230,74,R,R,2005-05-26,2009-10-03,bazay001,bazaryo01
-bazsh01,1999,6,17,USA,TX,Cypress,,,,,,,Shane,Baz,Shane Austin,190,74,R,R,2021-09-20,2021-10-02,baz-s001,
+bazsh01,1999,6,17,USA,TX,Houston,,,,,,,Shane,Baz,Shane Austin,190,74,R,R,2021-09-20,2021-10-02,baz-s001,
 beachbr01,1986,9,3,USA,IN,Kokomo,,,,,,,Brandon,Beachy,Brandon Alan,220,74,R,R,2010-09-20,2015-07-20,beacb001,beachbr01
 beachja01,1862,,,USA,VA,Alexandria,1896,7,23,USA,VA,Alexandria,Jack,Beach,Stonewall Jackson,,,,,1884-05-01,1884-06-12,beacj101,beachja01
 beallbo01,1948,4,24,USA,OR,Portland,,,,,,,Bob,Beall,Robert Brooks,180,71,B,L,1975-05-12,1980-09-23,bealb101,beallbo01
@@ -5487,7 +5487,7 @@ fahrepe01,1890,3,10,USA,OH,Holgate,1967,6,10,USA,MI,Fremont,Pete,Fahrer,Clarence
 fahrje01,1924,12,9,USA,AR,Marmaduke,2010,2,12,USA,GA,Duluth,Jerry,Fahr,Gerald Warren,185,77,R,R,1951-04-29,1951-07-15,fahrj101,fahrje01
 fainfe01,1921,3,29,USA,TX,San Antonio,2001,10,18,USA,CA,Georgetown,Ferris,Fain,Ferris Roy,180,71,L,L,1947-04-15,1955-09-24,fainf101,fainfe01
 fairbji01,1881,3,17,USA,NY,Deansboro,1955,12,27,USA,NY,Utica,Jim,Fairbank,James Lee,185,70,R,R,1903-09-18,1904-10-08,fairj101,fairbji01
-fairbpe01,1993,12,16,USA,MO,St. Louis,,,,,,,Pete,Fairbanks,Peter Anderson,225,78,R,R,2019-06-09,2021-10-01,fairp001,fairbpe01
+fairbpe01,1993,12,16,USA,WI,Milwaukee,,,,,,,Pete,Fairbanks,Peter Anderson,225,78,R,R,2019-06-09,2021-10-01,fairp001,fairbpe01
 faircra01,1892,8,19,USA,TN,Kenton,1953,10,5,USA,AZ,Tucson,Rags,Faircloth,James Lamar,160,71,R,R,1919-05-06,1919-05-15,fairr102,faircra01
 faircst01,1996,3,17,USA,WA,Seattle,,,,,,,Stuart,Fairchild,Stuart Alexander,205,72,R,R,2021-07-06,2021-09-04,fairs001,faircst01
 faireji01,1944,9,22,USA,SC,Orangeburg,,,,,,,Jim,Fairey,James Burke,190,70,L,L,1968-04-14,1973-09-26,fairj102,faireji01
@@ -5808,7 +5808,7 @@ fleetfr01,1848,,,USA,NY,New York,1900,6,13,USA,NY,New York,Frank,Fleet,Frank H.,
 fleitan01,1914,11,10,Cuba,,Los Abreus,2006,7,10,USA,FL,Miami,Angel,Fleitas,Angel Felix,160,69,R,R,1948-07-05,1948-08-10,fleia101,fleitan01
 flemibi01,1913,7,31,USA,CA,Rowland,2006,6,4,USA,NV,Reno,Bill,Fleming,Leslie Fletcherd,190,72,R,R,1940-08-21,1946-07-19,flemb101,flemibi01
 flemida01,1969,11,7,USA,NY,Jackson Heights,,,,,,,Dave,Fleming,David Anthony,200,75,L,L,1991-08-06,1995-09-30,flemd001,flemida01
-flemijo01,1996,5,18,USA,MO,Bridgeton,,,,,,,Josh,Fleming,Joshua Randol,220,74,R,L,2020-08-23,2021-10-03,flemj001,flemijo01
+flemijo01,1996,5,18,USA,MO,Bridgeton,,,,,,,Josh,Fleming,Joshua Randol,220,74,L,L,2020-08-23,2021-10-03,flemj001,flemijo01
 flemile01,1915,8,7,USA,TX,Singleton,1980,3,5,USA,TX,Cleveland,Les,Fleming,Leslie Harvey,185,70,L,L,1939-04-22,1949-06-09,fleml101,flemile01
 flemito01,1873,11,20,USA,PA,Philadelphia,1957,12,26,USA,MA,Boston,Tom,Fleming,Thomas Vincent,155,71,L,L,1899-09-19,1904-05-04,flemt101,flemito01
 flenehu01,1969,2,25,USA,TX,Austin,,,,,,,Huck,Flener,Gregory Alan,175,71,B,L,1993-09-14,1997-07-28,flenh001,flenehu01
@@ -10637,7 +10637,7 @@ lindsax01,1895,8,26,Sweden,,Gustavsberg,1940,6,24,USA,NC,Asheville,Axel,Lindstro
 lindsbi01,1881,2,24,USA,NC,Madison,1963,7,14,USA,NC,Greensboro,Bill,Lindsay,William Gibbons,165,70,L,R,1911-06-21,1911-07-23,lindb102,lindsbi01
 lindsbi02,1960,4,12,USA,NY,Staten Island,,,,,,,Bill,Lindsey,William Donald,195,75,R,R,1987-07-18,1987-08-18,lindb001,lindsbi02
 lindsch01,1878,7,24,USA,PA,Beaver County,1941,1,25,USA,OH,Cleveland,Chris,Lindsay,Christian Haller,190,72,R,R,1905-07-05,1906-10-07,lindc101,lindsch01
-lindsch02,1936,9,7,USA,IL,Chicago,,,,,,,Charlie,Lindstrom,Charles William,175,71,R,R,1958-09-28,1958-09-28,lindc102,lindsch02
+lindsch02,1936,9,7,USA,IL,Chicago,2021,9,29,,,,Charlie,Lindstrom,Charles William,175,71,R,R,1958-09-28,1958-09-28,lindc102,lindsch02
 lindsdo01,1967,9,22,USA,TX,Austin,,,,,,,Doug,Lindsey,Michael Douglas,200,74,R,R,1991-10-06,1993-10-02,lindd001,lindsdo01
 lindsfr01,1905,11,21,USA,IL,Chicago,1981,10,4,USA,IL,Chicago,Freddie,Lindstrom,Frederick Charles,170,71,R,R,1924-04-15,1936-05-15,lindf101,lindsfr01
 lindsji01,1899,1,24,USA,LA,Greensburg,1963,10,25,USA,LA,Jackson,Jim,Lindsey,James Kendrick,175,73,R,R,1922-05-01,1937-09-27,lindj102,lindsji01
@@ -10875,7 +10875,7 @@ lovulto01,1965,7,25,USA,CA,Santa Monica,,,,,,,Torey,Lovullo,Salvatore Anthony,18
 lowdegr01,1885,1,15,USA,IN,Sandborn,1968,3,31,USA,IL,Odin,Grover,Lowdermilk,Grover Cleveland,190,76,R,R,1909-07-03,1920-05-12,lowdg101,lowdegr01
 lowdelo01,1887,2,23,USA,IN,Sandborn,1975,12,27,USA,IL,Centralia,Lou,Lowdermilk,Louis Bailey,180,73,R,L,1911-04-23,1912-05-16,lowdl101,lowdelo01
 lowebo01,1865,7,10,USA,PA,Pittsburgh,1951,12,8,USA,MI,Detroit,Bobby,Lowe,Robert Lincoln,150,70,R,R,1890-04-19,1907-10-06,loweb101,lowebo01
-lowebr01,1994,7,6,USA,VA,Newport News,,,,,,,Brandon,Lowe,Brandon Norman,185,70,L,R,2018-08-05,2021-10-03,loweb001,lowebr01
+lowebr01,1994,7,6,USA,VA,Suffolk,,,,,,,Brandon,Lowe,Brandon Norman,185,70,L,R,2018-08-05,2021-10-03,loweb001,lowebr01
 lowech01,,,,USA,MD,Baltimore,,,,,,,Charlie,Lowe,Charles,,,,,1872-09-24,1872-10-31,lowec101,lowech01
 lowede01,1973,6,1,USA,MI,Dearborn,,,,,,,Derek,Lowe,Derek Christopher,230,78,R,R,1997-04-26,2013-05-19,lowed001,lowede01
 lowedi01,1854,1,28,USA,WI,Evansville,1922,6,28,USA,WI,Janesville,Dick,Lowe,Richard Alvern,,,,,1884-06-26,1884-06-26,lowed101,lowedi01
@@ -15548,7 +15548,7 @@ robinde02,1987,9,28,USA,FL,Gainesville,,,,,,,Derrick,Robinson,Derrick Lamar,190,
 robindo01,1957,6,8,USA,KY,Ashland,,,,,,,Don,Robinson,Don Allen,225,76,R,R,1978-04-10,1992-07-12,robid001,robindo01
 robindr01,1992,4,20,USA,NV,Las Vegas,,,,,,,Drew,Robinson,Drew Elliott,200,73,L,R,2017-04-05,2019-04-22,robid003,robindr01
 robinea01,1936,11,3,USA,LA,New Orleans,2014,7,4,USA,CA,Fountain Valley,Earl,Robinson,Earl John,190,73,R,R,1958-09-10,1964-09-30,robie102,robinea01
-robined01,1920,12,15,USA,TX,Paris,,,,,,,Eddie,Robinson,William Edward,210,74,L,R,1942-09-09,1957-09-15,robie101,robined01
+robined01,1920,12,15,USA,TX,Paris,2021,10,4,USA,TX,Bastrop,Eddie,Robinson,William Edward,210,74,L,R,1942-09-09,1957-09-15,robie101,robined01
 robinfl01,1936,5,9,USA,AR,Prescott,,,,,,,Floyd,Robinson,Floyd Andrew,175,69,L,R,1960-08-10,1968-09-29,robif102,robinfl01
 robinfr01,1856,7,6,USA,MA,South Acton,1933,12,18,USA,MA,Hudson,Fred,Robinson,Frederic Henry,,,R,R,1884-04-17,1884-04-19,robif101,robinfr01
 robinfr02,1935,8,31,USA,TX,Beaumont,2019,2,7,USA,CA,Los Angeles,Frank,Robinson,Frank,183,73,R,R,1956-04-17,1976-09-18,robif103,robinfr02
