@@ -1,3 +1,11 @@
+Preface:
+This is the original README from the 2015 release of the Lahman Database, which is
+one of the sources of the data.
+
+This is not guaranteed to be up-to-date with respect to the latest data or conventions
+
+
+
 The Lahman Baseball Database
 
 2014 Version
