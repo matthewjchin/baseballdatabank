@@ -1800,7 +1800,7 @@ bowala01,1945,12,6,USA,CA,Sacramento,,,,,,,Larry,Bowa,Lawrence Robert,155,70,B,R
 bowcobe01,1879,10,28,USA,MA,Fall River,1961,6,16,USA,MA,Taunton,Benny,Bowcock,Benjamin James,150,67,R,R,1903-09-18,1903-09-28,bowcb101,bowcobe01
 bowdebe01,1994,10,21,USA,MA,Lynn,,,,,,,Ben,Bowden,Benjamin Douglas,249,76,L,L,2021-04-02,2021-09-10,bowdb001,bowdebe01
 bowdemi01,1986,9,9,USA,IL,Winfield,,,,,,,Michael,Bowden,Michael Matthew,215,75,R,R,2008-08-30,2013-09-03,bowdm001,bowdemi01
-bowdeti01,1891,8,15,USA,GA,McDonough,1949,10,25,USA,GA,Emory,Tim,Bowden,David Timon,175,70,L,R,1914-09-17,1914-09-27,bowdt101,bowdeti01
+bowdeti01,1891,8,15,USA,GA,McDonough,1949,10,25,USA,GA,Atlanta,Tim,Bowden,David Timon,175,70,L,R,1914-09-17,1914-09-27,bowdt101,bowdeti01
 bowench01,1897,7,26,USA,CT,New Haven,1948,8,9,USA,CT,New Haven,Chick,Bowen,Emmons Joseph,165,67,R,R,1919-09-15,1919-09-28,bowec102,bowench01
 bowency01,1871,2,17,USA,IN,Kingston,1925,1,25,USA,IN,Greensburg,Cy,Bowen,Sutherland McCoy,175,72,R,R,1896-04-28,1896-04-28,bowec101,bowency01
 bowenro01,1981,2,24,USA,TX,Bedford,,,,,,,Rob,Bowen,Robert McClure,210,74,B,R,2003-09-01,2008-09-24,bower002,bowenro01
@@ -3361,7 +3361,7 @@ clibust01,1956,12,19,USA,MS,Jackson,,,,,,,Stan,Cliburn,Stanley Gene,195,72,R,R,1
 clibust02,1956,12,19,USA,MS,Jackson,,,,,,,Stew,Cliburn,Stewart Walker,195,72,R,R,1984-09-17,1988-10-01,clibs001,clibust02
 cliftfl01,1908,12,12,USA,OH,Cincinnati,1997,12,22,USA,OH,Cincinnati,Flea,Clifton,Herman Earl,160,70,R,R,1934-04-29,1937-07-01,cliff101,cliftfl01
 cliftha01,1912,8,12,USA,OK,El Reno,1992,4,27,USA,WA,Yakima,Harlond,Clift,Harlond Benton,180,71,R,R,1934-04-17,1945-09-20,clifh101,cliftha01
-clinege01,1946,10,6,USA,CA,San Pablo,,,,,,,Gene,Clines,Eugene Anthony,170,69,R,R,1970-06-28,1979-05-08,cling101,clinege01
+clinege01,1946,10,6,USA,CA,San Pablo,2022,1,27,,,,Gene,Clines,Eugene Anthony,170,69,R,R,1970-06-28,1979-05-08,cling101,clinege01
 clinemo01,1858,3,3,USA,KY,Louisville,1916,9,23,USA,KY,Louisville,Monk,Cline,John P.,150,64,L,L,1882-07-04,1891-10-04,clinm101,clinemo01
 clinety01,1939,6,15,USA,SC,Hampton,,,,,,,Ty,Cline,Tyrone Alexander,170,72,L,L,1960-09-14,1971-09-26,clint101,clinety01
 clingbi01,1869,11,21,USA,OH,Cincinnati,1958,5,14,USA,OH,Cincinnati,Billy,Clingman,William Frederick,150,71,B,R,1890-09-09,1903-07-16,clinb101,clingbi01
@@ -6545,7 +6545,7 @@ gharrpa01,1892,3,13,USA,IA,Parnell,1966,10,10,USA,WI,Beloit,Patsy,Gharrity,Edwar
 ghelfto01,1961,8,23,USA,WI,La Crosse,,,,,,,Tony,Ghelfi,Anthony Paul,185,75,R,R,1983-09-01,1983-09-13,ghelt101,ghelfto01
 giallbo01,1937,5,20,USA,NY,Brooklyn,,,,,,,Bob,Giallombardo,Robert Paul,175,72,L,L,1958-06-21,1958-07-27,gialb101,giallbo01
 giambja01,1971,1,8,USA,CA,West Covina,,,,,,,Jason,Giambi,Jason Gilbert,240,75,L,R,1995-05-08,2014-09-27,giamj001,giambja01
-giambje01,1974,9,30,USA,CA,San Jose,,,,,,,Jeremy,Giambi,Jeremy Dean,185,72,L,L,1998-09-01,2003-08-01,giamj002,giambje01
+giambje01,1974,9,30,USA,CA,San Jose,2022,2,9,USA,CA,Claremont,Jeremy,Giambi,Jeremy Dean,185,72,L,L,1998-09-01,2003-08-01,giamj002,giambje01
 giambtr01,1993,12,20,USA,LA,Metairie,,,,,,,Trent,Giambrone,Trent Joseph,175,68,R,R,2021-09-29,2021-10-03,giamt001,giambtr01
 giannjo01,1888,9,8,USA,CA,Drytown,1942,9,26,USA,CA,San Francisco,Joe,Giannini,Joseph Francis,155,68,L,R,1911-08-07,1911-08-07,gianj101,giannjo01
 giannra01,1966,2,5,USA,NY,Brooklyn,,,,,,,Ray,Giannelli,Raymond John,195,72,L,R,1991-05-04,1995-10-01,gianr001,giannra01
@@ -7044,7 +7044,7 @@ greench03,1991,5,24,USA,SC,Greenville,,,,,,,Chad,Green,Chad Keith,215,75,L,R,201
 greenco01,1995,4,4,USA,CA,Santa Monica,,,,,,,Conner,Greene,James Conner,195,76,R,R,2021-07-27,2021-10-03,greec004,greenco01
 greenda01,1876,11,6,USA,NJ,Burlington,1914,11,9,USA,NJ,Blackwood,Danny,Green,Edward,,,L,R,1898-08-17,1905-10-08,greed103,greenda01
 greenda02,1934,8,4,USA,DE,Newport,2017,3,22,USA,PA,Philadelphia,Dallas,Green,George Dallas,210,77,L,R,1960-06-18,1967-09-12,greed101,greenda02
-greenda03,1960,12,4,Nicaragua,Managua,Managua,,,,,,,David,Green,David Alejandro,170,75,R,R,1981-09-04,1987-10-04,greed001,greenda03
+greenda03,1960,12,4,Nicaragua,Managua,Managua,2022,1,25,USA,MO,St. Louis,David,Green,David Alejandro,170,75,R,R,1981-09-04,1987-10-04,greed001,greenda03
 greendi01,1941,4,21,USA,IA,Sioux City,,,,,,,Dick,Green,Richard Larry,180,70,R,R,1963-09-09,1974-10-02,greed102,greendi01
 greened01,1860,1,,USA,NJ,Millville,1912,11,1,USA,PA,Philadelphia,Ed,Green,Edward M.,,,,,1890-04-22,1890-10-11,greee101,greened01
 greenfr01,1933,9,14,USA,NJ,Titusville,1996,12,22,USA,NJ,Titusville,Fred,Green,Fred Allen,190,76,R,L,1959-04-15,1964-06-14,greef101,greenfr01
@@ -8796,7 +8796,7 @@ ingraga01,1970,7,25,USA,GA,Columbus,,,,,,,Garey,Ingram,Garey Lamar,180,71,R,R,19
 ingrame01,1904,7,4,USA,NC,Asheville,1979,10,28,USA,OR,Medford,Mel,Ingram,Melvin David,175,71,R,R,1929-07-24,1929-08-28,ingrm101,ingrame01
 ingrari01,1966,9,10,USA,GA,Douglas,2015,3,31,USA,GA,Lilburn,Riccardo,Ingram,Riccardo Benay,205,72,R,R,1994-06-26,1995-07-30,ingrr001,ingrari01
 inksbe01,1871,1,27,USA,IN,Ligonier,1941,10,3,USA,IN,Ligonier,Bert,Inks,Albert John,175,75,L,L,1891-09-02,1896-06-23,inksb101,inksbe01
-innisje01,1962,7,5,USA,IL,Decatur,,,,,,,Jeff,Innis,Jeffrey David,170,73,R,R,1987-05-16,1993-10-02,innij001,innisje01
+innisje01,1962,7,5,USA,IL,Decatur,2022,1,30,USA,GA,Dawsonville,Jeff,Innis,Jeffrey David,170,73,R,R,1987-05-16,1993-10-02,innij001,innisje01
 iorgda01,1950,5,11,USA,CA,Eureka,,,,,,,Dane,Iorg,Dane Charles,180,72,L,R,1977-04-09,1986-10-04,iorgd001,iorgda01
 iorgga01,1954,10,12,USA,CA,Arcata,,,,,,,Garth,Iorg,Garth Ray,170,71,R,R,1978-04-09,1987-10-04,iorgg001,iorgga01
 iottha01,1876,7,7,USA,ME,Houlton,1941,2,17,USA,ME,Island Falls,Happy,Iott,Frederick Bidds,175,70,R,R,1903-09-16,1903-09-18,iotth101,iottha01
@@ -10064,7 +10064,7 @@ kuczybe01,1920,1,8,USA,PA,Philadelphia,1997,1,19,USA,PA,Allentown,Bert,Kuczynski
 kuehlka99,1937,9,5,USA,CA,Monterey Park,2008,8,6,USA,AZ,Scottsdale,Karl,Kuehl,Karl Otto,175,71,L,L,,,kuehk801,kuehlka99
 kuehnbi01,1858,10,24,Germany,Saxony,Leipzig,1921,10,27,USA,OH,Sulphur Springs,Bill,Kuehne,William J.,185,68,R,R,1883-05-01,1892-09-29,kuehb101,kuehnbi01
 kuennha01,1930,12,4,USA,WI,West Allis,1988,2,28,USA,AZ,Peoria,Harvey,Kuenn,Harvey Edward,187,74,R,R,1952-09-06,1966-10-02,kuenh101,kuennha01
-kuhaufr01,1953,2,23,USA,HI,Honolulu,,,,,,,Fred,Kuhaulua,Fred Mahele,175,71,L,L,1977-08-02,1981-10-01,kuhaf101,kuhaufr01
+kuhaufr01,1953,2,23,USA,HI,Honolulu,2021,9,20,,,,Fred,Kuhaulua,Fred Mahele,175,71,L,L,1977-08-02,1981-10-01,kuhaf101,kuhaufr01
 kuheljo01,1906,6,25,USA,OH,Cleveland,1984,2,26,USA,KS,Kansas City,Joe,Kuhel,Joseph Anthony,180,72,L,L,1930-07-31,1947-05-11,kuhej101,kuheljo01
 kuhlch01,1992,9,10,USA,DE,Newark,,,,,,,Chad,Kuhl,Chad Michael,205,75,R,R,2016-06-26,2021-10-03,kuhlc001,kuhlch01
 kuhnbo99,1926,10,28,USA,MD,Takoma Park,2007,3,15,USA,FL,Jacksonville,Bowie,Kuhn,Bowie Kent,,,,,,,,kuhnbo99
@@ -10647,7 +10647,7 @@ lindsro01,1976,1,28,USA,AL,Opelika,,,,,,,Rod,Lindsey,Rodney Lee,175,68,R,R,2000-
 lindssh01,1985,1,25,Australia,Victoria,Melbourne,,,,,,,Shane,Lindsay,Shane Anthony,230,74,R,R,2011-09-02,2011-09-12,linds001,lindssh01
 linebsc01,1976,8,4,USA,TX,Austin,,,,,,,Scott,Linebrink,Scott Cameron,220,75,R,R,2000-04-15,2011-09-28,lines001,linebsc01
 linesdi01,1938,8,17,CAN,QC,Montreal,,,,,,,Dick,Lines,Richard George,175,73,R,L,1966-04-16,1967-10-01,lined101,linesdi01
-linhaca01,1929,12,14,Czech Republic,Olomouc,Zborov,2021,1,4,USA,IL,Maryville,Carl,Linhart,Carl James,184,71,L,R,1952-08-02,1952-09-19,linhc101,linhaca01
+linhaca01,1929,12,14,Czech Republic,Olomouc,Zborov,2022,1,4,USA,IL,Maryville,Carl,Linhart,Carl James,184,71,L,R,1952-08-02,1952-09-19,linhc101,linhaca01
 liniaco01,1976,8,23,USA,CA,Encinitas,,,,,,,Cole,Liniak,Cole Edward,181,73,R,R,1999-09-03,2000-04-05,linic001,liniaco01
 linkeed01,1911,11,9,USA,IL,Chicago,1988,6,21,USA,IL,Chicago,Ed,Linke,Edward Karl,180,71,R,R,1933-04-27,1938-09-04,linke101,linkeed01
 linkfr01,1886,3,11,USA,OH,Columbus,1939,5,22,USA,TX,Houston,Fred,Link,Frederick Theodore,170,72,L,L,1910-04-15,1910-08-25,linkf101,linkfr01
@@ -15892,7 +15892,7 @@ roystje01,1952,10,18,USA,CA,Sacramento,,,,,,,Jerry,Royster,Jeron Kennis,165,72,R
 roystwi01,1954,4,11,USA,VA,Clarksville,2015,11,23,USA,NJ,Ocean View,Willie,Royster,Willie Arthur,180,71,R,R,1981-09-03,1981-10-02,roysw101,roystwi01
 rozekdi01,1927,3,27,USA,IA,Cedar Rapids,2001,9,27,USA,CA,Indio,Dick,Rozek,Richard Louis,190,72,L,L,1950-04-29,1954-05-16,rozed101,rozekdi01
 rozemda01,1956,8,5,USA,MI,Grand Rapids,,,,,,,Dave,Rozema,David Scott,185,76,R,R,1977-04-11,1986-04-30,rozed001,rozemda01
-roznovi01,1938,10,19,USA,TX,Shiner,,,,,,,Vic,Roznovsky,Victor Joseph,170,72,L,R,1964-06-28,1969-10-01,roznv101,roznovi01
+roznovi01,1938,10,19,USA,TX,Shiner,2022,1,18,USA,CA,Fresno,Vic,Roznovsky,Victor Joseph,170,72,L,R,1964-06-28,1969-10-01,roznv101,roznovi01
 ruanwi01,1978,11,18,D.R.,La Romana,Guaymate,,,,,,,Wilkin,Ruan,Wilkin Chal,170,72,R,R,2002-09-01,2003-09-28,ruanw001,ruanwi01
 ruary01,1990,3,11,USA,OH,Amherst,,,,,,,Ryan,Rua,Ryan Anthony,205,74,R,R,2014-08-29,2018-09-29,rua-r001,ruary01
 rubelal01,1913,5,10,USA,MD,Baltimore,1988,1,28,USA,MD,Baltimore,Al,Rubeling,Albert William,185,72,R,R,1940-04-16,1944-10-01,rubea101,rubelal01
@@ -19712,7 +19712,7 @@ williea02,1948,7,14,USA,NJ,Newark,2013,1,28,USA,NJ,Somerset,Earl,Williams,Earl C
 willied01,1964,11,1,USA,LA,Shreveport,,,,,,,Eddie,Williams,Edward Laquan,175,72,R,R,1986-04-18,1998-05-27,wille001,willied01
 willifr01,1958,2,13,USA,WA,Seattle,2009,1,9,CAN,BC,Victoria,Frank,Williams,Frank Lee,180,73,R,R,1984-04-05,1989-09-27,willf001,willifr01
 willige01,1939,10,23,USA,MI,Detroit,2009,5,14,USA,MI,Detroit,George,Williams,George,165,71,R,R,1961-07-16,1964-07-05,willg101,willige01
-willige02,1966,8,10,USA,LA,New Orleans,,,,,,,Gerald,Williams,Gerald Floyd,190,74,R,R,1992-09-15,2005-10-02,willg001,willige02
+willige02,1966,8,10,USA,LA,New Orleans,2022,2,8,,,,Gerald,Williams,Gerald Floyd,190,74,R,R,1992-09-15,2005-10-02,willg001,willige02
 willige03,1969,4,22,USA,WI,La Crosse,,,,,,,George,Williams,George Erik,190,70,B,R,1995-07-14,2000-09-13,willg002,willige03
 willigl01,1977,7,18,Australia,New South Wales,Gosford,,,,,,,Glenn,Williams,Glenn David,195,74,B,R,2005-06-07,2005-06-28,willg003,willigl01
 willigu01,1870,,,USA,NY,New York,1890,10,14,USA,NY,New York,Gus,Williams,Augustine H.,170,71,,,1890-04-18,1890-04-22,willg102,willigu01
