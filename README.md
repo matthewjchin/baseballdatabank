@@ -3,7 +3,7 @@
 Baseball Databank is a compilation of historical baseball data in a
 convenient, tidy format, distributed under Open Data terms.
 
-This work is licensed by [Chadwick Baseball Burea](www.chadwick-bureau.com)
+This work is licensed by [Chadwick Baseball Bureau](www.chadwick-bureau.com)
 under the Creative Commons Attribution-ShareAlike 3.0 Unported License.  For details see
 http://creativecommons.org/licenses/by-sa/3.0/
 
