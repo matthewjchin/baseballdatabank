@@ -365,4 +365,4 @@ yearID,round,teamIDwinner,lgIDwinner,teamIDloser,lgIDloser,wins,losses,ties
 2021,NLDS1,ATL,NL,MIL,NL,3,1,0
 2021,NLDS2,LAN,NL,SFN,NL,3,2,0
 2021,NLCS,ATL,NL,LAN,NL,4,2,0
-2021,WC,ATL,NL,HOU,NL,4,2,0
+2021,WS,ATL,NL,HOU,AL,4,2,0
