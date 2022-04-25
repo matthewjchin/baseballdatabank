@@ -3,10 +3,11 @@ ALB01,Riverside Park,,Albany,NY,US
 ALT01,Columbia Park,,Altoona,PA,US
 ANA01,Angel Stadium of Anaheim,Edison Field; Anaheim Stadium,Anaheim,CA,US
 ARL01,Arlington Stadium,,Arlington,TX,US
-ARL02,Rangers Ballpark in Arlington,The Ballpark in Arlington; Ameriquest Fl,Arlington,TX,US
+ARL02,Globe Life Park in Arlington,Rangers Ballpark in Arlington; The Ballpark in Arlington; Ameriquest Fl,Arlington,TX,US
+ARL03,Globe Life Field,,Arlington,TX,US
 ATL01,Atlanta-Fulton County Stadium,,Atlanta,GA,US
 ATL02,Turner Field,,Atlanta,GA,US
-ATL03,Suntrust Park,,Atlanta,GA,US
+ATL03,Truist Park,Suntrust Park,Atlanta,GA,US
 BAL01,Madison Avenue Grounds,,Baltimore,MD,US
 BAL02,Newington Park,,Baltimore,MD,US
 BAL03,Oriole Park I,,Baltimore,MD,US
@@ -51,7 +52,7 @@ CIN05,League Park II,,Cincinnati,OH,US
 CIN06,Palace of the Fans,League Park III,Cincinnati,OH,US
 CIN07,Crosley Field,Redland Field,Cincinnati,OH,US
 CIN08,Cinergy Field,Riverfront Stadium,Cincinnati,OH,US
-CIN09,Great American Ballpark,,Cincinnati,OH,US
+CIN09,Great American Ball Park,,Cincinnati,OH,US
 CLE01,National Association Grounds,,Cleveland,OH,US
 CLE02,League Park I,Kennard Street Park,Cleveland,OH,US
 CLE03,League Park II,American Association Park,Cleveland,OH,US
@@ -122,14 +123,14 @@ LOU04,Eclipse Park III,,Louisville,KY,US
 LUD01,Ludlow Baseball Park,,Ludlow,KY,US
 MAS01,Long Island Grounds,,Maspeth,NY,US
 MIA01,Sun Life Stadium,JoeRobbie; ProPlayer; Dolphin; LandShark,Miami,FL,US
-MIA02,Marlins Park,,Miami,FL,US
+MIA02,loanDepot Park,Marlins Park,Miami,FL,US
 MID01,Mansfield Club Grounds,,Middletown,CT,US
 MIL01,Milwaukee Base-Ball Grounds,,Milwaukee,WI,US
 MIL02,Wright Street Grounds,,Milwaukee,WI,US
 MIL03,Athletic Park,,Milwaukee,WI,US
 MIL04,Lloyd Street Grounds,,Milwaukee,WI,US
 MIL05,County Stadium,,Milwaukee,WI,US
-MIL06,Miller Park,,Milwaukee,WI,US
+MIL06,American Family Field,Miller Park,Milwaukee,WI,US
 MIN01,Athletic Park,,Minneapolis,MN,US
 MIN02,Metropolitan Stadium,,Bloomington,MN,US
 MIN03,Hubert H. Humphrey Metrodome,,Minneapolis,MN,US
@@ -160,9 +161,9 @@ NYC16,Yankee Stadium I,,New York,NY,US
 NYC17,Shea Stadium,William A. Shea Stadium,New York,NY,US
 NYC18,Wallace's Ridgewood Park,Ridgewood Park II,Queens,NY,US
 NYC19,Washington Park IV,,Brooklyn,NY,US
-NYC20,Citi Field,,New York,NY,US
+NYC20,Citi Field,,Queens,NY,US
 NYC21,Yankee Stadium II,,New York,NY,US
-OAK01,Oakland-Alameda County Coliseum,Network Associates Coliseum,Oakland,CA,US
+OAK01,RingCentral Coliseum,Oakland-Alameda County Coliseum; Network Associates Coliseum; Overstock.com Coliseum; O.co Coliseum,Oakland,CA,US
 OMA01,TD Ameritrade Park,,Omaha,NE,US
 PEN01,East End Park,Pendleton Park,Cincinnati,OH,US
 PHI01,Jefferson Street Grounds,Athletics Park,Philadelphia,PA,US
@@ -204,7 +205,7 @@ SEA02,Kingdome,,Seattle,WA,US
 SEA03,Safeco Field,T-Mobile Park,Seattle,WA,US
 SFO01,Seals Stadium,,San Francisco,CA,US
 SFO02,Candlestick Park,3Com Park,San Francisco,CA,US
-SFO03,AT&T Park,Pacific Bell Park; SBC Park,San Francisco,CA,US
+SFO03,Oracle Park,Pacific Bell Park; SBC Park; AT&T Park,San Francisco,CA,US
 SJU01,Estadio Hiram Bithorn,,San Juan,,PR
 SPR01,Hampden Park Race Track,Springfield Track,Springfield,MA,US
 STL01,Red Stockings Base Ball Park,,St. Louis,MO,US
@@ -215,7 +216,7 @@ STL05,Robison Field,,St. Louis,MO,US
 STL06,Sportsman's Park II,,St. Louis,MO,US
 STL07,Sportsman's Park III,Busch Stadium I,St. Louis,MO,US
 STL08,Handlan's Park,Federal League Park,St. Louis,MO,US
-STL09,Busch Stadium II,,St. Louis,MO,US
+STL09,Busch Stadium II,Busch Memorial Stadium,St. Louis,MO,US
 STL10,Busch Stadium III,,St. Louis,MO,US
 STP01,Tropicana Field,,St. Petersburg,FL,US
 SYD01,Sydney Cricket Ground,,Sydney,New South Wales,AU
@@ -230,6 +231,7 @@ TOL03,Speranza Park,,Toledo,OH,US
 TOL04,Armory Park,,Toledo,OH,US
 TOR01,Exhibition Stadium,,Toronto,ON,CA
 TOR02,Rogers Centre,Skydome,Toronto,ON,CA
+TOR03,Sahlen Field,,Buffalo,NY,US
 TRO01,Haymakers' Grounds,,Troy,NY,US
 TRO02,Putnam Grounds,,Troy,NY,US
 WAR01,Rocky Point Park,,Warwick,RI,US
